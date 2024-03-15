@@ -2,7 +2,6 @@
 <p>A simple web-based calculator that converts lengths from centimeters (cm) to meters (m).</p>
 <h2>Usage</h2>
 <ul>
-<li>Open the index.html file in a web browser.</li>
   <li>Enter the desired length in centimeters in the input field labeled "Enter length in centimeters (cm)."</li>
  <li>Click the "Convert" button.</li>
   <li>The converted length in meters will be displayed in the output field labeled "Result in meters (m)."</li>
