@@ -1,5 +1,13 @@
 # Cm to Meter Converter
-Master precise unit conversion with our sophisticated cm to m (meter) calculator
+<p>A simple web-based calculator that converts lengths from centimeters (cm) to meters (m).</p>
+<h2>Usage</h2>
+<ul>
+<li>Open the index.html file in a web browser.</li>
+  <li>Enter the desired length in centimeters in the input field labeled "Enter length in centimeters (cm)."</li>
+ <li>Click the "Convert" button.</li>
+  <li>The converted length in meters will be displayed in the output field labeled "Result in meters (m)."</li>
+ <li>To perform a new conversion, click the "Reset" button to clear the input and output fields.</li>
+</ul>
 <h2>Screenshot</h2>
 <p><img src="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/assets/161077097/2399007a-90fa-4daf-89bd-c6fc2c54a7a8" alt="Screenshot of the centimeters to meters converter"/></p>
 <p>Here is a screenshot of how the centimeters to meters converter works.</p>
