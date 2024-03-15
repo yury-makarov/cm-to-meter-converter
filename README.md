@@ -1,8 +1,8 @@
 # Cm to Meter Converter
 Master precise unit conversion with our sophisticated cm to m (meter) calculator
 <h2>Screenshot</h2>
-<p><img src="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/assets/161077097/2399007a-90fa-4daf-89bd-c6fc2c54a7a8" alt="Screenshot of the centimeters to millimeters converter"/></p>
-<p>Here is a screenshot of how the centimeters to millimeters converter works.</p>
+<p><img src="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/assets/161077097/2399007a-90fa-4daf-89bd-c6fc2c54a7a8" alt="Screenshot of the centimeters to meters converter"/></p>
+<p>Here is a screenshot of how the centimeters to meters converter works.</p>
 <h2>Technologies Used</h2>
 <ul>
     <li> HTML</li>
