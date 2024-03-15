@@ -7,6 +7,7 @@
   <li>The converted length in meters will be displayed in the output field labeled "Result in meters (m)."</li>
  <li>To perform a new conversion, click the "Reset" button to clear the input and output fields.</li>
 </ul>
+<p>Try demo: https://www.asutpp.com/cm-to-m.html</p>
 <h2>Screenshot</h2>
 <p><img src="https://raw.githubusercontent.com/yury-makarov/cm-to-meter-converter/main/screenshot-cm-to-meter-converter.png" alt="Screenshot of the centimeters to meters converter"/></p>
 <p>Here is a screenshot of how the centimeters to meters converter works.</p>
